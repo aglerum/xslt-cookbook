@@ -14,7 +14,9 @@
                     into Bepress is slightly different from metadata provided by Bepress as a data dump.) This program 
                     does not address all non-UTF-8 character references, and regex patterns in the analyze-string 
                     elements should be added to as new character references are found.</xd:p>
-                <xd:p><xd:i>Associated XML table: </xd:i>unicode_map.xml</xd:p>               
+                <xd:p><xd:i>Associated XML table: </xd:i>unicode_map.xml</xd:p>
+                <xd:p>Copyright (C) 2016 Margaret Anne Glerum</xd:p>
+                <xd:p>Permission is granted to freely use and adapt this program provided attribution is given to the original author. See the MIT License found in the root directory of this repository for full details.</xd:p>
             </xd:desc>
         </xd:doc>
     
