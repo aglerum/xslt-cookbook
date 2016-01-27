@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Examples of Bepress metadata provided as a data dump to illustrate the use of fs:characters2utf8.xsl -->
+<documents>
+
+    <document>
+        <title>Nuclear Magnetic Resonance Studies of Phase Separation in Two Systems: La&lt;sub&gt;1-x&lt;/sub&gt;Sr&lt;sub&gt;x&lt;/sub&gt;CoO&lt;sub&gt;3&lt;/sub&gt; and
+            La&lt;sub&gt;2-x&lt;/sub&gt;Sr&lt;sub&gt;x&lt;/sub&gt;CuO&lt;sub&gt;4&lt;/sub&gt;</title>
+        <publication-date>2010-10-26T00:00:00-07:00</publication-date>
+        <authors>
+            <author>
+                <institution>Florida State University</institution>
+                <lname>Smith</lname>
+                <fname>Robert</fname>
+                <mname>Steven</mname>
+            </author>
+        </authors>
+        <keywords>
+            <keyword>Nuclear magnetic resonance</keyword>
+            <keyword>Superconductivity</keyword>
+            <keyword>Magnetism</keyword>
+        </keywords>
+        <disciplines>
+            <discipline>Physics</discipline>
+        </disciplines>
+        <abstract>&lt;p&gt;Nuclear magnetic resonance measurements are reported for two systems: La&lt;sub&gt;1-x&lt;/sub&gt;Sr&lt;sub&gt;x&lt;/sub&gt;CoO&lt;sub&gt;3&lt;/sub&gt; and
+            La&lt;sub&gt;2â&#x88;&#x92;x&lt;/sub&gt;Sr&lt;sub&gt;x&lt;/sub&gt;CuO&lt;sub&gt;4&lt;/sub&gt;. The local nature of NMR finds local order at temperatures well above the bulk phase
+            transitions of these compounds. This demonstrates the important role of fluctuations in strongly correlated systems.&lt;/p&gt;
+            &lt;p&gt;La&lt;sub&gt;1â&#x88;&#x92;x&lt;/sub&gt;Sr&lt;sub&gt;x&lt;/sub&gt;CoO&lt;sub&gt;3&lt;/sub&gt;: Nanoscale inhomogeneity in
+            La&lt;sub&gt;1â&#x88;&#x92;x&lt;/sub&gt;Sr&lt;sub&gt;x&lt;/sub&gt;CoO&lt;sub&gt;3&lt;/sub&gt;) has been investigated in single crystal samples for 0.05â&#x89;¤xâ&#x89;¤0.30 using
+            &lt;sup&gt;139&lt;/sup&gt;La and &lt;sup&gt;59&lt;/sup&gt;Co NMR to probe local magnetization. Ferromagnetism is only exhibited above the metal-to-insulator (MIT) critical concentration,
+            x&lt;sub&gt;C&lt;/sub&gt;. However, over the entire doping range, the single crystals exhibit an unusually broad and asymmetric distribution of hyperfine fields, evidencing (local)
+            magnetic cluster formation that persists to temperatures as high as 200 K, well above the glass transition reported from bulk magnetization. Above x&lt;sub&gt;C&lt;/sub&gt; the asymmetry
+            decreases rapidly with increasing doping as magnetic clusters overlap to give rise to long-range ferromagnetism. The key features of the spectra are reproduced by a simple model in which
+            Sr dopants trigger magnetic cluster formation. Relaxation measurements at various locations in the magnetic clusters show the correlation times of the fluctuating hyperfine fields becomes
+            very slow on the edges of a magnetic cluster due to large amounts of disorder. Below the MIT the system is made of two regions, a) the very weakly magnetic regions outside a cluster where
+            Co&lt;sup&gt;3+&lt;/sup&gt; ions undergo spin-state transitions nearly identical to the parent compound, and b) the disorder spin-glass regions made up of the magnetic clusters. The
+            clusters grow slowly with doping and see only a slowly changing density of states until they begin to merge at x=0.10 where they grow rapidly and the carrier density drops.&lt;/p&gt;
+            &lt;p&gt;La&lt;sub&gt;2â&#x88;&#x92;x&lt;/sub&gt;Sr&lt;sub&gt;x&lt;/sub&gt;CuO&lt;sub&gt;4&lt;/sub&gt;: At intense magnetic fields (30T)&lt;sup&gt;17&lt;/sup&gt;O NMR exhibits two distinct
+            signatures for planar oxygen sites instead of the singular site expected from the identical lattice symmetry at oxygen sites in the copper-oxygen plane for underdoped, orthorhombic
+            La&lt;sub&gt;2â&#x88;&#x92;x&lt;/sub&gt;Sr&lt;sub&gt;x&lt;/sub&gt;CuO&lt;sub&gt;4&lt;/sub&gt;. Analysis of Knight shift, linewidth, quadrupolar splitting and spectral asymmetry indicates
+            that roughly 75% of the planar oxygens evidence antiferromagnetically-correlated nearest neighbor Cu moments at temperatures below â&#x88;¼30 K, consistent with previous reports. A second
+            planar oxygen site first observed in this study shows that there are mobile holes on roughly 25% of the planar oxygen sites that (a) suppress magnetism for all T &lt;300K and &gt;(b) show
+            a Knight shift that drops to zero below â&#x88;¼60 K, evidencing pair formation at a temperature well above the superconducting transition temperature (â&#x88;¼4 K at 30 T) and more than
+            twice the superconducting transition temperature at zero magnetic field.&lt;/p&gt;</abstract>
+        <coverpage-url>http://diginole.lib.fsu.edu/etd/365</coverpage-url>
+        <fulltext-url>http://diginole.lib.fsu.edu/cgi/viewcontent.cgi?article=4728&amp;amp;context=etd&amp;amp;unstamped=1</fulltext-url>
+        <label>365</label>
+        <document-type>open_dissertation</document-type>
+        <type>article</type>
+        <articleid>4728</articleid>
+        <submission-date>2012-01-10T12:18:49-08:00</submission-date>
+        <publication-title>Electronic Theses, Treatises and Dissertations</publication-title>
+        <context-key>2439607</context-key>
+        <submission-path>etd/365</submission-path>
+        <fields>
+            <field name="advisor1" type="string">
+                <value>&lt;p&gt;Committee Chair - Gregory Boebinger&lt;/p&gt; &lt;p&gt;Outside Committee Member - Naresh Dalal&lt;/p&gt; &lt;p&gt;Committee Member - James Brooks&lt;/p&gt;
+                    &lt;p&gt;Committee Member - Vladimir Dobrosavljevic&lt;/p&gt; &lt;p&gt;Committee Member - Samuel Tabor&lt;/p&gt; &lt;p&gt;Committee Member- Arneil Reyes&lt;/p&gt;</value>
+            </field>
+            <field name="availability" type="string">
+                <value>Open Access</value>
+            </field>
+            <field name="degree_name" type="string">
+                <value>PHD, Doctor of Philosophy</value>
+            </field>
+            <field name="department" type="string">
+                <value>Department of Physics</value>
+            </field>
+            <field name="embargo_date" type="date">
+                <value>2012-01-10T00:00:00-08:00</value>
+            </field>
+            <field name="publication_date" type="date">
+                <value>2010-10-26T00:00:00-07:00</value>
+            </field>
+        </fields>
+    </document>
+
+    <document>
+        <title>Yukawa Unification in SO(10) SUSY GUTs</title>
+        <publication-date>2004-08-31T00:00:00-07:00</publication-date>
+        <authors>
+            <author>
+                <institution>Florida State University</institution>
+                <lname>Auto</lname>
+                <fname>Daniel</fname>
+                <mname>M.</mname>
+            </author>
+        </authors>
+        <keywords>
+            <keyword>SUSY</keyword>
+            <keyword>GUT</keyword>
+            <keyword>Supersymmetry Phenomenology</keyword>
+            <keyword>Supersymmetric Standard Model</keyword>
+            <keyword>Yukawa Unification</keyword>
+            <keyword>SO(10) Symmetry</keyword>
+        </keywords>
+        <disciplines>
+            <discipline>Physics</discipline>
+        </disciplines>
+        <abstract>&lt;p&gt;Supersymmetric grand unified models based on the SO(10) gauge group are especially attractive in light of recent data on neutrino masses. The simplest SO(10) SUSY GUT models
+            predict unification of third generation Yukawa couplings (t â&#x80;&#x93; b â&#x80;&#x93; Æ¬) in addition to the usual gauge coupling unification. An assessment of the viability of such
+            Yukawa unified models is presented. For the superpotential Higgs mass parameter Î¼&gt;0, it is found that unification to less than 1% is possible, but only for GUT scale scalar mass
+            parameter m&lt;sub&gt;16&lt;/sub&gt; ~ 8 â&#x80;&#x93; 20 TeV, and small values of gaugino mass m&lt;sub&gt;1/2 &lt;/sub&gt;â&#x89;¤ 150 GeV. Such models require tha a GUT scale mass
+            splitting exists amongst Higgs scalars with m&lt;sup&gt;2&lt;/sup&gt;&lt;sub&gt;Hu&lt;/sub&gt; &lt; m&lt;sup&gt;2&lt;/sup&gt;&lt;sub&gt;Hd&lt;/sub&gt;. Viable solutions lead to a
+            radiatively generated inverted scalar mass hierarchy, with third generation and Higgs scalars being lighter than other sfermions. These models have a very heavy sfermions, so that unwanted
+            flavor changing and CP violating SUSY processes are suppressed, but may suffer from some fine-tuning requirements. While the generated spectra satisify b â&#x86;&#x92; sÎ³ and (g
+            â&#x80;&#x93; 2)Î¼ constraints, there exists tension with the dark matter relic density unless m&lt;sub&gt;16&lt;/sub&gt; â&#x89;¤ 3TeV. These models offer prospects for SUSY discovery at
+            the Fermilab Tevatron collider via the search for W&lt;sub&gt;1&lt;/sub&gt;Z&lt;sub&gt;2&lt;/sub&gt; â&#x86;&#x92; 3l events, or via gluino pair production. If Î¼ &lt; 0, Yujawa coupling
+            unification to less than 5% can occur for m&lt;sub&gt;16&lt;/sub&gt; and m &lt;sub&gt;1/2&lt;/sub&gt;â&#x89;¥ 1 â&#x80;&#x93; 2 TeV. Consistency of negative Î¼ Yukawa unified models with b
+            â&#x86;&#x92; sÎ³, (g â&#x80;&#x93; 2)Î¼, and relic density Î©h&lt;sup&gt;2&lt;/sup&gt; all imply &lt;sup&gt; &lt;/sup&gt;very large values of m&lt;sub&gt;1/2 &lt;/sub&gt;typically greater
+            than about 2.5 TeV, in which case direct dection of sparticles may be a challenge even at the LHC. To address the tension between Yukawa unification and the excess of dark matter that the
+            Î¼&gt;0 models tend to predict, a couple of possible improvements are surveyed. One solution- lowering the GUT scale mass value of first and second generation scalars, leads to
+            u&lt;sub&gt;R&lt;/sub&gt; and c&lt;sub&gt;R&lt;/sub&gt; squark masses in the 90 â&#x80;&#x93; 120 GeV regime, which should be accessible to Fermilab Tavatron experiments. Another
+            possibility is relaxing gaugino mass universality which may solve the relic density problem by having neutralino annihilations via the Z or h resonances, or by having a wino-like
+            LSP.&lt;/p&gt;</abstract>
+        <coverpage-url>http://diginole.lib.fsu.edu/etd/37</coverpage-url>
+        <fulltext-url>http://diginole.lib.fsu.edu/cgi/viewcontent.cgi?article=1036&amp;amp;context=etd&amp;amp;unstamped=1</fulltext-url>
+        <label>37</label>
+        <document-type>open_dissertation</document-type>
+        <type>article</type>
+        <articleid>1036</articleid>
+        <submission-date>2011-09-29T11:22:48-07:00</submission-date>
+        <publication-title>Electronic Theses, Treatises and Dissertations</publication-title>
+        <context-key>2265964</context-key>
+        <submission-path>etd/37</submission-path>
+        <fields>
+            <field name="advisor1" type="string">
+                <value>&lt;p&gt;Committee Chair - Howard Baer&lt;/p&gt; &lt;p&gt;Committee Member - Christopher Hunter&lt;/p&gt; &lt;p&gt;Committee Member - Harrison Prosper&lt;/p&gt;
+                    &lt;p&gt;Committee Member - Jorge Piekarewicz&lt;/p&gt; &lt;p&gt;Committee Member - Laura Reina&lt;/p&gt;</value>
+            </field>
+            <field name="advisor2" type="string">
+                <value>Christopher Hunter</value>
+            </field>
+            <field name="advisor3" type="string">
+                <value>Harrison Prosper</value>
+            </field>
+            <field name="advisor4" type="string">
+                <value>Jorge Piekarewicz and Laura Reina</value>
+            </field>
+            <field name="availability" type="string">
+                <value>Open Access</value>
+            </field>
+            <field name="degree_name" type="string">
+                <value>PHD, Doctor of Philosophy</value>
+            </field>
+            <field name="department" type="string">
+                <value>Department of Physics</value>
+            </field>
+            <field name="embargo_date" type="date">
+                <value>2011-09-29T00:00:00-07:00</value>
+            </field>
+            <field name="publication_date" type="date">
+                <value>2004-08-31T00:00:00-07:00</value>
+            </field>
+        </fields>
+    </document>
+
+    <document>
+        <title>Remembering to Forget: The Event of Memory in Joyce and Beckett</title>
+        <publication-date>2010-06-18T00:00:00-07:00</publication-date>
+        <authors>
+            <author>
+                <institution>Florida State University</institution>
+                <lname>Anderson</lname>
+                <fname>Dustin</fname>
+            </author>
+        </authors>
+        <keywords>
+            <keyword>Ramachandran</keyword>
+            <keyword>DamÃ¡sio</keyword>
+            <keyword>Neuroscience</keyword>
+            <keyword>Deleuze</keyword>
+            <keyword>Synestheisa</keyword>
+            <keyword>Cotard's Syndrome</keyword>
+            <keyword>Memory</keyword>
+            <keyword>Cognition</keyword>
+        </keywords>
+        <disciplines>
+            <discipline>English Language and Literature</discipline>
+        </disciplines>
+        <abstract>&lt;p&gt;This project is an attempt to re-conceptualizes the interaction between memory and the body, specifically the failures and slippages of memory, in the works of James Joyce
+            and Samuel Beckett. I contend that Beckettâ&#x80;&#x99;s work (following Joyceâ&#x80;&#x99;s examples) explores the moment of interaction between the cognitive mind and the corporeal body
+            as memories become actionsâ&#x80;&#x94;or fail to become actions. I examine moments of memory failure or slippage in light of cognitive science developed by neurophilosophers (from Bergson
+            to recent works by Pinker, Kandel, Ramachandran and DamÃ¡sio) to discuss how these types of memory-events work in studies of phantom limbs and bodies, neuro and physical memory mapping,
+            and in neuropathies as they materialize in language.&lt;/p&gt; &lt;p&gt;To that end, this project takes a two-fold approach: first, to examine how the work on memory that Bergson theorized
+            in the late 19th and early 20th centuries is reflected artistically by looking at two texts (Finnegans Wake and Murphy) that develop approaches to memory and cognition similar to
+            Bergsonâ&#x80;&#x99;s own, and, second, to examine how cognitive science has finally caught up with the modernist writing that anticipated much of what contemporary neurophilosophers are
+            studying now.&lt;/p&gt; &lt;p&gt;Chapter one discusses development of cognitive science and its disavowal of its foundation in Bergsonâ&#x80;&#x99;s late nineteenth &amp; early twentieth
+            century work in Time and Free Will, Matter and Memory, The Creative Mind, and Creative Evolution. The second chapter then develops a comparative analysis of those current trends and
+            practices in cognitive science, specifically those related to perception, as well as the artistic cognitive projects that Joyce and Beckett develop that are strikingly similar to those
+            that Bergson pioneered in the late nineteenth century. The third chapter deals with Joyceâ&#x80;&#x99;s Finnegans Wake as an attempt to remember and the failure inherent in that process.
+            However, since the design of Finnegans Wake is a model of actual cognition (circuitous and simultaneous rather than sequential), the attempts to remember always imply the process of
+            forgetting. The event of memory in Joyce functions in two ways, first as an inaccessible initial memory but also as a transmutive shift into a new form of memory. This chapter works
+            backwards from the resulting memories to find the triggering memory-event. Chapter four develops a reading of the set-piece of the Murphyâ&#x80;&#x99;s mind which is informed by both
+            Bergsonâ&#x80;&#x99;s own development of cognitive zones (based on his reading of Leibnizâ&#x80;&#x99;s monadic model) and Joyceâ&#x80;&#x99;s development of the monad into a dyad in
+            Finnegans Wake. The third and fourth chapters form discussions of where Joyce ends his study on memory and Beckett begins his study (respectively). The conclusion points to where we might
+            look to develop the discussion further by looking at Watt briefly.&lt;/p&gt;</abstract>
+        <coverpage-url>http://diginole.lib.fsu.edu/etd/210</coverpage-url>
+        <fulltext-url>http://diginole.lib.fsu.edu/cgi/viewcontent.cgi?article=3636&amp;amp;context=etd&amp;amp;unstamped=1</fulltext-url>
+        <label>210</label>
+        <document-type>open_dissertation</document-type>
+        <type>article</type>
+        <articleid>3636</articleid>
+        <submission-date>2011-12-12T13:32:06-08:00</submission-date>
+        <publication-title>Electronic Theses, Treatises and Dissertations</publication-title>
+        <context-key>2399114</context-key>
+        <submission-path>etd/210</submission-path>
+        <fields>
+            <field name="advisor1" type="string">
+                <value>&lt;p&gt;Committee Chair - S.E. Gontarski&lt;/p&gt; &lt;p&gt;Committee Member - Barry Faulk&lt;/p&gt; &lt;p&gt;Committee Member - R.M. Berry&lt;/p&gt; &lt;p&gt;University
+                    Representative - Joyce Carbonell&lt;/p&gt;</value>
+            </field>
+            <field name="availability" type="string">
+                <value>Open Access</value>
+            </field>
+            <field name="degree_name" type="string">
+                <value>PHD, Doctor of Philosophy</value>
+            </field>
+            <field name="department" type="string">
+                <value>Department of English</value>
+            </field>
+            <field name="embargo_date" type="date">
+                <value>2011-12-12T00:00:00-08:00</value>
+            </field>
+            <field name="publication_date" type="date">
+                <value>2010-06-18T00:00:00-07:00</value>
+            </field>
+        </fields>
+    </document>
+</documents>
