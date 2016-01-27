@@ -7,7 +7,7 @@
             <xd:p><xd:b>Last updated: </xd:b>January 24, 2016</xd:p>
             <xd:p><xd:b>Author: </xd:b>Annie Glerum</xd:p>
             <xd:p><xd:b>Organization: </xd:b>Florida State University Libraries</xd:p>
-            <xd:p><xd:b>Title: </xd:b>TBepress metadata to MODS transformation for testing fsul:characters2utf8</xd:p>
+            <xd:p><xd:b>Title: </xd:b>Bepress metadata to MODS transformation for testing fsul:characters2utf8</xd:p>
         </xd:desc>
     </xd:doc>
 
