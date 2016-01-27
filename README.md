@@ -5,7 +5,7 @@ A collection of XSLT programs for analyzing and transforming library data
 | Directory | File type | Function |
 |-----------| -----------| -----------|
 | ```functions``` | .xsl | Called by XSLT programs in ```modules``` and ```transformations``` |
-| ```modules``` | .xsl | Called by XSLT programs in ```transformations``` directory |
+| ```modules``` ```[coming soon]``` | .xsl | Called by XSLT programs in ```transformations``` directory |
 | ```tables``` | .xml | Called by XSLT programs in ```modules``` and ```transformations``` |
 | ```transformations``` | .xsl | Run on XML documents in ```xml```  |
 | ```xml``` | .xml | Transformed by XSLT programs in ```transformations``` |
