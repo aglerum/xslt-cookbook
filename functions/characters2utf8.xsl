@@ -1,6 +1,6 @@
 <xsl:stylesheet version="2.0" xmlns:xs="http://www.w3.org/2001/XMLSchema"
         xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-        xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:fs="http://www.lib.fsu.edu"
+        xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:fsul="http://www.lib.fsu.edu"
         xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" exclude-result-prefixes="xs xd">
         
         <xd:doc scope="stylesheet">
@@ -24,14 +24,14 @@
     <xd:doc>
         <xd:desc>
             <xd:p>
-                <xd:b>fs:strip-tags</xd:b>
+                <xd:b>fsul:strip-tags</xd:b>
             </xd:p>
             <xd:p>Function to strip HTLML tags from the title and summary fields. This is necessary for transformation to MARC21 or MODS but not for Bepress.</xd:p>
             <xd:p>Acknowledgement: Adapted from Joachim Selke: http://blog.joachim-selke.de/2011/01/stripping-html-tags-in-xslt/. Conditional updated to XPath 2.0.</xd:p>
         </xd:desc>
     </xd:doc>
     <!--    @param $string is the string to process  -->
-    <xsl:function name="fs:strip-tags">
+    <xsl:function name="fsul:strip-tags">
         <xsl:param name="string" as="xs:string"/>
         <xsl:analyze-string select="$string" regex="(&lt;[A-Za-z]+&gt;)|(&lt;/[A-Za-z]+&gt;)|(&lt;br\s/&gt;)">
             <xsl:matching-substring>
@@ -58,7 +58,7 @@
     <xd:doc>
         <xd:desc>
             <xd:p>
-                <xd:b>fs:convert-curly</xd:b>
+                <xd:b>fsul:convert-curly</xd:b>
             </xd:p>
             <xd:p>
                 <xd:b>Function to convert utf8 curly quotes characters found in Bepress metadata to
@@ -69,7 +69,7 @@
     </xd:doc>
     
     <!--    @param $string is the string to process  -->
-    <xsl:function name="fs:convert-curly">
+    <xsl:function name="fsul:convert-curly">
         <xsl:param name="string"/>
         <xsl:variable name="quote">
             <xsl:text>&quot;</xsl:text>
@@ -141,7 +141,7 @@
     <xd:doc>
         <xd:desc>
             <xd:p>
-                <xd:b>fs:characters2utf8</xd:b>
+                <xd:b>fsul:characters2utf8</xd:b>
             </xd:p>
             <xd:p>
                 <xd:b>Purpose:</xd:b>Function to convert character references found in Bepress metadata to UTF-8 characters.
@@ -150,7 +150,7 @@
         </xd:desc>
     </xd:doc>
     
-    <xsl:function name="fs:characters2utf8">
+    <xsl:function name="fsul:characters2utf8">
         <xsl:param name="string"/>
         <xsl:variable name="unicode-map" select="document('../tables/unicode_map.xml')/characters"/>
         
@@ -223,7 +223,7 @@
             </xsl:analyze-string>
         </xsl:variable>
         
-        <xsl:value-of select="fs:convert-curly($latin-double)"/>
+        <xsl:value-of select="fsul:convert-curly($latin-double)"/>
         
     </xsl:function>
         
