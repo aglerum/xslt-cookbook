@@ -1,6 +1,6 @@
 <xsl:stylesheet version="2.0" xmlns:xs="http://www.w3.org/2001/XMLSchema"
         xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-        xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:fsul="http://www.lib.fsu.edu"
+        xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:fsul="https://www.lib.fsu.edu"
         xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" exclude-result-prefixes="xs xd">
         
         <xd:doc scope="stylesheet">
