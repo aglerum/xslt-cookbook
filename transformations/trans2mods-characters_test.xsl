@@ -8,6 +8,8 @@
             <xd:p><xd:b>Author: </xd:b>Annie Glerum</xd:p>
             <xd:p><xd:b>Organization: </xd:b>Florida State University Libraries</xd:p>
             <xd:p><xd:b>Title: </xd:b>Bepress metadata to MODS transformation for testing fsul:characters2utf8</xd:p>
+            <xd:p>Copyright (C) 2016 Margaret Anne Glerum</xd:p>
+            <xd:p>Permission is granted to freely use and adapt this program provided attribution is given to the original author. See the MIT License found in the root directory of this repository for full details.</xd:p>
         </xd:desc>
     </xd:doc>
 
